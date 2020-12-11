@@ -1,0 +1,1 @@
+# Simple service for fast files sharing via curl
